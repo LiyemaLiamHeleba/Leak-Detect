@@ -1,0 +1,7 @@
+DATABASE_URL="postgresql://admin:6!8GlEAE8a@db.internal:5432/prod"
+api_key = "sk_live_wyU7Mt0IkmQoWeF0QVzzzMaP3HefWFLt"
+AWS_ACCESS_KEY_ID = "AKIA08D7O1OVU635L32R"
+# Server IP: 50.187.80.252
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEA0Z3VS5JJcds3xHn/ygWep4PAtEsHAWGS...
+-----END RSA PRIVATE KEY-----
